@@ -1,10 +1,13 @@
 
-
-namespace learn_dotnet.Lab.Lab1;
+namespace learn_dotnet.Lab.Lab1
 {
-    public static class HelloWorld
+    public  class HelloWorld
     {
-        Console.WriteLine("HelloWorld");
+        public  void Print()
+        {
+            Console.WriteLine("HelloWorld");
+        }
+
     }
 }
 

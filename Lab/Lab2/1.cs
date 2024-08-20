@@ -1,1 +1,1 @@
-namespace learn_dotnet.Lab.Lab2;
+// namespace learn_dotnet.Lab.Lab2;

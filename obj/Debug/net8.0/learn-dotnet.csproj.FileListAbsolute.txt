@@ -3,3 +3,13 @@
 /home/ngthtrong/Documents/SoftwareEngineer/code/learn-dotnet/obj/Debug/net8.0/learn-dotnet.AssemblyInfo.cs
 /home/ngthtrong/Documents/SoftwareEngineer/code/learn-dotnet/obj/Debug/net8.0/learn-dotnet.csproj.CoreCompileInputs.cache
 /home/ngthtrong/Documents/SoftwareEngineer/code/learn-dotnet/obj/Debug/net8.0/learn-dotnet.sourcelink.json
+/home/ngthtrong/Documents/SoftwareEngineer/code/learn-dotnet/bin/Debug/net8.0/learn-dotnet
+/home/ngthtrong/Documents/SoftwareEngineer/code/learn-dotnet/bin/Debug/net8.0/learn-dotnet.deps.json
+/home/ngthtrong/Documents/SoftwareEngineer/code/learn-dotnet/bin/Debug/net8.0/learn-dotnet.runtimeconfig.json
+/home/ngthtrong/Documents/SoftwareEngineer/code/learn-dotnet/bin/Debug/net8.0/learn-dotnet.dll
+/home/ngthtrong/Documents/SoftwareEngineer/code/learn-dotnet/bin/Debug/net8.0/learn-dotnet.pdb
+/home/ngthtrong/Documents/SoftwareEngineer/code/learn-dotnet/obj/Debug/net8.0/learn-dotnet.dll
+/home/ngthtrong/Documents/SoftwareEngineer/code/learn-dotnet/obj/Debug/net8.0/refint/learn-dotnet.dll
+/home/ngthtrong/Documents/SoftwareEngineer/code/learn-dotnet/obj/Debug/net8.0/learn-dotnet.pdb
+/home/ngthtrong/Documents/SoftwareEngineer/code/learn-dotnet/obj/Debug/net8.0/learn-dotnet.genruntimeconfig.cache
+/home/ngthtrong/Documents/SoftwareEngineer/code/learn-dotnet/obj/Debug/net8.0/ref/learn-dotnet.dll
