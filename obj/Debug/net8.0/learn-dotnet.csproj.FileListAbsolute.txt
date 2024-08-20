@@ -1,0 +1,5 @@
+/home/ngthtrong/Documents/SoftwareEngineer/code/learn-dotnet/obj/Debug/net8.0/learn-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/ngthtrong/Documents/SoftwareEngineer/code/learn-dotnet/obj/Debug/net8.0/learn-dotnet.AssemblyInfoInputs.cache
+/home/ngthtrong/Documents/SoftwareEngineer/code/learn-dotnet/obj/Debug/net8.0/learn-dotnet.AssemblyInfo.cs
+/home/ngthtrong/Documents/SoftwareEngineer/code/learn-dotnet/obj/Debug/net8.0/learn-dotnet.csproj.CoreCompileInputs.cache
+/home/ngthtrong/Documents/SoftwareEngineer/code/learn-dotnet/obj/Debug/net8.0/learn-dotnet.sourcelink.json
