@@ -12,7 +12,10 @@ public class Program
         // arrayPractice.PrintAll();
         // arrayPractice.PrintOdd();
         // --------------------3--------------------//
-        StringPractice stringPractice= new StringPractice();
-        stringPractice.PrintWords();
+        // StringPractice stringPractice= new StringPractice();
+        // stringPractice.PrintWords();
+        // --------------------4--------------------//
+        ListPractice listPractice= new ListPractice();
+        listPractice.PrintSum();
     }
 }
