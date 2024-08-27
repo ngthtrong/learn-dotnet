@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/learn-dotnet/learn-dotnet.csproj": {}
+    "/home/ngthtrong/Documents/SoftwareEngineer/code/learn-dotnet/learn-dotnet.csproj": {}
   },
   "projects": {
-    "/workspaces/learn-dotnet/learn-dotnet.csproj": {
+    "/home/ngthtrong/Documents/SoftwareEngineer/code/learn-dotnet/learn-dotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/learn-dotnet/learn-dotnet.csproj",
+        "projectUniqueName": "/home/ngthtrong/Documents/SoftwareEngineer/code/learn-dotnet/learn-dotnet.csproj",
         "projectName": "learn-dotnet",
-        "projectPath": "/workspaces/learn-dotnet/learn-dotnet.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/learn-dotnet/obj/",
+        "projectPath": "/home/ngthtrong/Documents/SoftwareEngineer/code/learn-dotnet/learn-dotnet.csproj",
+        "packagesPath": "/home/ngthtrong/.nuget/packages/",
+        "outputPath": "/home/ngthtrong/Documents/SoftwareEngineer/code/learn-dotnet/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "/home/ngthtrong/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -58,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.107/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

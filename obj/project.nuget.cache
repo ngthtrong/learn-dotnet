@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2ZTfqNh/eOc=",
+  "dgSpecHash": "tKua9LBzf/RI54znyj6R2aQ/RY/4Y60AmMWlO/j7SFtvS6YvYIsRWm3oiKKDB9WPCRHjwj+cwdBTbTgb2LfmYw==",
   "success": true,
-  "projectFilePath": "/workspaces/learn-dotnet/learn-dotnet.csproj",
+  "projectFilePath": "/home/ngthtrong/Documents/SoftwareEngineer/code/learn-dotnet/learn-dotnet.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
